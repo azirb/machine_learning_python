@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+records100
+records500
+records
+ptbxl_database
+scp_statements
